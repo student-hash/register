@@ -1,0 +1,53 @@
+<class timetable>
+<tr>
+
+<th><day></th>
+    <th>8-11</th>
+    <th>11-2</th>
+    <th>2-5</th>
+
+</tr>
+<tr>
+    <td>
+    </td>monday</tr>
+    </td>tuesday</tr>
+    </td>wednesday</tr>
+    </td>thursday</tr>
+    </td>friday</tr>
+
+</tr>
+  <tr>
+    </td>monday</tr>
+    </td>advanced database</tr>
+    </td>free</tr>
+    </td>free</tr> 
+
+</tr>
+<tr>
+  </td>tuesday</tr>
+  </td>free</tr>
+  </td>free</tr>
+  </td>web development 1</tr> 
+
+  </tr>
+<tr>
+  </td>wednesday</tr>
+  </td>free</tr>
+  </td>CCNA module 3</tr>
+  </td>software engenearing</tr>
+
+</tr>
+<tr>
+  </td>thursday</tr>
+  </td>resaarch proposal</tr>
+  </td>object oriented programming and design</tr>
+  </td>free</tr>
+    
+  </tr>
+<tr>
+  </td>friday</tr>
+  </td>free</tr>
+  </td>free</tr>
+  </td>objec oriented programming</tr>
+  </tr>
+  </timetable>
